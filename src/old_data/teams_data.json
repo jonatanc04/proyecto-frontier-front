@@ -1,0 +1,439 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Instituto Poderosa Fé",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/x/g/xgnjytrjvn8.webp",
+    "field": "Campo del Instituto Otaku",
+    "field_element": "AIR",
+    "players": [
+      {
+        "player": 3265,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 316,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 1744,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 1983,
+        "average": 81,
+        "captain": 1
+      },
+      {
+        "player": 2429,
+        "average": 73,
+        "captain": 2
+      },
+      {
+        "player": 3334,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 3281,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 1045,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 1069,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 249,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 27,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 3261,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 4452,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 3278,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 3277,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1154,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 2602,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1986,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 3244,
+        "average": null,
+        "captain": 0
+      },
+      {
+        "player": 4462,
+        "average": 74,
+        "captain": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alia Academy",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/p/e/pey-xhcribu.webp",
+    "field": "Mensajeros de las Estrellas",
+    "field_element": "MON",
+    "players": [
+      {
+        "player": 2591,
+        "average": 82,
+        "captain": 0
+      },
+      {
+        "player": 4081,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1732,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1734,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 4166,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 5221,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 4164,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 4069,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 3839,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 4725,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 1251,
+        "average": null,
+        "captain": 0
+      },
+      {
+        "player": 2706,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 4,
+        "average": 78,
+        "captain": 0
+      },
+      {
+        "player": 1083,
+        "average": 78,
+        "captain": 2
+      },
+      {
+        "player": 4350,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 113,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 3746,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 4625,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 1690,
+        "average": 81,
+        "captain": 1
+      },
+      {
+        "player": 3308,
+        "average": 71,
+        "captain": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Academia Orchid",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/k/8/k8sfpakvnzu.webp",
+    "field": "Estadio Osakaland",
+    "field_element": "BOS",
+    "players": [
+      {
+        "player": 3323,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 248,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 1974,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 4157,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 1694,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 4025,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 2554,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 1795,
+        "average": 70,
+        "captain": 2
+      },
+      {
+        "player": 1729,
+        "average": null,
+        "captain": 0
+      },
+      {
+        "player": 3780,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 2147,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 2521,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1737,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1880,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 1973,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 5425,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 3719,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 3556,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 15,
+        "average": 77,
+        "captain": 1
+      },
+      {
+        "player": 3667,
+        "average": 73,
+        "captain": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Barcelona Orb",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/q/n/qn0wcgh7m7s.webp",
+    "field": "Champ Nou",
+    "field_element": "FUE",
+    "players": [
+      {
+        "player": 4483,
+        "average": 78,
+        "captain": 0
+      },
+      {
+        "player": 4328,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 4323,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 5129,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 5347,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 4519,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 4213,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 3383,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 4322,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 4516,
+        "average": 75,
+        "captain": 0
+      },
+      {
+        "player": 2420,
+        "average": 76,
+        "captain": 0
+      },
+      {
+        "player": 4040,
+        "average": 72,
+        "captain": 0
+      },
+      {
+        "player": 4393,
+        "average": 79,
+        "captain": 1
+      },
+      {
+        "player": 4776,
+        "average": null,
+        "captain": 0
+      },
+      {
+        "player": 4203,
+        "average": 70,
+        "captain": 2
+      },
+      {
+        "player": 4212,
+        "average": 74,
+        "captain": 0
+      },
+      {
+        "player": 3651,
+        "average": 70,
+        "captain": 0
+      },
+      {
+        "player": 1103,
+        "average": 71,
+        "captain": 0
+      },
+      {
+        "player": 1093,
+        "average": 73,
+        "captain": 0
+      },
+      {
+        "player": 3367,
+        "average": 70,
+        "captain": 0
+      }
+    ]
+  }
+]
+

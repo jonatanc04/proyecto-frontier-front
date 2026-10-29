@@ -1,0 +1,74 @@
+{
+  "Bug": {
+    "file": "BugType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/BugType.png"
+  },
+  "Dark": {
+    "file": "DarkType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/DarkType.png"
+  },
+  "Dragon": {
+    "file": "DragonType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/DragonType.png"
+  },
+  "Electric": {
+    "file": "ElectricType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/ElectricType.png"
+  },
+  "Fairy": {
+    "file": "FairyType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/FairyType.png"
+  },
+  "Fighting": {
+    "file": "FightingType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/FightingType.png"
+  },
+  "Fire": {
+    "file": "FireType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/FireType.png"
+  },
+  "Flying": {
+    "file": "FlyingType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/FlyingType.png"
+  },
+  "Ghost": {
+    "file": "GhostType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/GhostType.png"
+  },
+  "Grass": {
+    "file": "GrassType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/GrassType.png"
+  },
+  "Ground": {
+    "file": "GroundType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/GroundType.png"
+  },
+  "Ice": {
+    "file": "IceType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/IceType.png"
+  },
+  "Normal": {
+    "file": "NormalType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/NormalType.png"
+  },
+  "Poison": {
+    "file": "PoisonType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/PoisonType.png"
+  },
+  "Psychic": {
+    "file": "PsychicType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/PsychicType.png"
+  },
+  "Rock": {
+    "file": "RockType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/RockType.png"
+  },
+  "Steel": {
+    "file": "SteelType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/SteelType.png"
+  },
+  "Water": {
+    "file": "WaterType.png",
+    "url": "https://pixelmonmod.com/wiki/Special:Redirect/file/WaterType.png"
+  }
+}
